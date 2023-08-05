@@ -1,3 +1,4 @@
 baseURL = 'https://t3ch.club/'
 languageCode = 'ja-jp'
 title = 't3ch club'
+theme = "papermod"
